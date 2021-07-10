@@ -1,11 +1,4 @@
-# Anyfin Full Stack Challenge
-
-## Requirements
-
-Create a NodeJs GraphQL server which allows you to look up a country by name and returns the full name, population and a list of its official currencies including current exchange rate to SEK. Requests should require a valid JWT obtained from a separate /login endpoint and should be rate limited to 30 requests per minute. Please use the following open APIs for this exercise:
-
-https://restcountries.eu (country lookup and general information)
-https://fixer.io (exchange rates)
+# Anyfin Full Stack Challenge Backend
 
 ## Technologies Used
 

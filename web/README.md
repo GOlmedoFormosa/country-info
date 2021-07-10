@@ -1,4 +1,4 @@
-# Anyfin Full Stack Challenge
+# Anyfin Full Stack Challenge Frontend
 
 ## Requirements
 
